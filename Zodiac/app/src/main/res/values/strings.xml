@@ -4,7 +4,7 @@
     <string name="zodiacText">Zodiac</string>
     <string name="fromTo">From to</string>
     <string name="description">Description</string>
-    <string name="tools">Tools</string>
     <string name="about">Zodiac App</string>
     <string name="myLogin">Nog0030</string>
+    <string name="settings">Settings</string>
 </resources>
