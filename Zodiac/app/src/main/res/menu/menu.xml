@@ -10,7 +10,7 @@
         app:showAsAction="never"/>
 
     <item android:id="@+id/About"
-        android:title="@string/about"
+        android:title="O mně"
         app:showAsAction="never"/>
 
 </menu>
