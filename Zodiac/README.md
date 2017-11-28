@@ -6,11 +6,11 @@ Pro použití aplikace je potřeba mít zapnutý internet.
 
 
 # Hlavni aktivita
-* <img src="https://i.imgur.com/eEEQo0L.png" width="150">
+* <img src="https://i.imgur.com/eEEQo0L.png" width="250">
 # Horoskop aktivita
-* <img src="https://i.imgur.com/aK7Am2j.png" width="150">
+* <img src="https://i.imgur.com/aK7Am2j.png" width="250">
 # Nastaveni aktivita
-* <img src="https://i.imgur.com/m1Lcf5M.png" width="150">
+* <img src="https://i.imgur.com/m1Lcf5M.png" width="250">
 # Tools
-* <img src="https://i.imgur.com/dIT4lQv.png" width="150">
+* <img src="https://i.imgur.com/dIT4lQv.png" width="250">
 
