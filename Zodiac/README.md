@@ -5,7 +5,12 @@ Uživatel pomocí formuláře vyplní datum svého narození, a klikne na tlač�
 Pro použití aplikace je potřeba mít zapnutý internet.
 
 
-![Hlavni aktivita](https://i.imgur.com/eEEQo0L.png)
-![Horoskop aktivita](https://i.imgur.com/aK7Am2j.png)
-![Nastaveni aktivita](https://i.imgur.com/m1Lcf5M.png)
-![Action bar](https://i.imgur.com/dIT4lQv.png)
+#Hlavni aktivita
+<img src="https://i.imgur.com/eEEQo0L.png" width="150">
+#Horoskop aktivita
+<img src="https://i.imgur.com/aK7Am2j.png" width="150">
+#Nastaveni aktivita
+<img src="https://i.imgur.com/m1Lcf5M.png" width="150">
+#Tools
+<img src="https://i.imgur.com/dIT4lQv.png" width="150">
+
