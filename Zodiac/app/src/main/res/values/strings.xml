@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">Zodiac</string>
+    <string name="app_name">Horoskop</string>
     <string name="enter_birthday">Enter your birthday</string>
-    <string name="zodiacText">Zodiac</string>
+    <string name="zodiacText">Horoskop</string>
     <string name="fromTo">From to</string>
     <string name="description">Description</string>
-    <string name="about">Zodiac App</string>
+    <string name="about">Vytvořil Petr Noga 2017</string>
     <string name="myLogin">Nog0030</string>
     <string name="settings">Settings</string>
 </resources>
