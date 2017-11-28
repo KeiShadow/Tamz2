@@ -1,5 +1,4 @@
-# Horoskop aplikace
+# Tvorba mobilních aplikací 2
 
-Uživatel pomocí formuláře vyplní datum svého narození, a klikne na tlačítko, poté se uživateli ukáže v aplikaci horoskop pro jeho den. 
-
-Pro použití aplikace je potřeba mít zapnutý internet.
+* Kurzovník - nedodělán úplně
+* Horoskop - doděláno
